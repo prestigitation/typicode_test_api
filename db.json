@@ -1,16 +1,19 @@
 {
   "filters": [
     {
+      "id": 1,
       "title": "Тип документа",
       "key": "document_type",
       "variants": ["Договор", "Справка", "Анкета"]
     },
     {
+      "id": 2,
       "title": "Статус",
       "key": "document_status",
       "variants": ["Заключен", "Расторгнут"]
     },
     {
+      "id": 3,
       "title": "Соритровать по",
       "key": "document_start_date",
       "variants": ["Дате"]
