@@ -24,6 +24,7 @@
       "id": 1,
       "document_type": "Договор",
       "name": "Договор №001",
+      "image_link": "../../public/pdf.png",
       "document_status": "Заключен",
       "document_start_date": "04.07.2021",
       "document_end_date": "04.07.2022"
@@ -31,6 +32,7 @@
     {
       "id": 2,
       "document_type": "Договор",
+      "image_link": "../../public/pdf.png",
       "name": "Договор №002",
       "document_status": "Расторгнут",
       "document_start_date": "04.07.2021",
@@ -39,6 +41,7 @@
     {
       "id": 3,
       "document_type": "Справка",
+      "image_link": "../../public/pdf.png",
       "name": "Справка",
       "document_status": null,
       "document_start_date": "04.07.2021",
@@ -47,6 +50,7 @@
     {
       "id": 3,
       "document_type": "Анкета",
+      "image_link": "../../public/pdf.png",
       "name": "Анкета",
       "document_status": null,
       "document_start_date": "04.07.2021",
