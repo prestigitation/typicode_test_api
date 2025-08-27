@@ -1,0 +1,53 @@
+{
+  "filters": [
+    {
+      "title": "Тип документа",
+      "key": "document_type",
+      "variants": ["Договор", "Справка", "Анкета"]
+    },
+    {
+      "title": "Статус",
+      "key": "document_status",
+      "variants": ["Заключен", "Расторгнут"]
+    },
+    {
+      "title": "Соритровать по",
+      "key": "document_start_date",
+      "variants": ["Дате"]
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "document_type": "Договор",
+      "name": "Договор №001",
+      "document_status": "Заключен",
+      "document_start_date": "04.07.2021",
+      "document_end_date": "04.07.2022"
+    },
+    {
+      "id": 2,
+      "document_type": "Договор",
+      "name": "Договор №002",
+      "document_status": "Расторгнут",
+      "document_start_date": "04.07.2021",
+      "document_end_date": "04.07.2022"
+    },
+    {
+      "id": 3,
+      "document_type": "Справка",
+      "name": "Справка",
+      "document_status": null,
+      "document_start_date": "04.07.2021",
+      "document_end_date": "04.07.2022"
+    },
+    {
+      "id": 3,
+      "document_type": "Анкета",
+      "name": "Анкета",
+      "document_status": null,
+      "document_start_date": "04.07.2021",
+      "document_end_date": null
+    }
+  ]
+}
